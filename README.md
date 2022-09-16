@@ -1,1 +1,2 @@
-testing 1 testing
+run with:
+npm start
